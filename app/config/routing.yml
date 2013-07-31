@@ -1,0 +1,4 @@
+stc_wenigoe:
+    resource: "@StcWenigoeBundle/Resources/config/routing.yml"
+    prefix:   /
+

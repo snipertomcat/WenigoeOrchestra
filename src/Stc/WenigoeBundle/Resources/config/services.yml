@@ -1,0 +1,7 @@
+parameters:
+#    stc_wenigoe.example.class: Stc\WenigoeBundle\Example
+
+services:
+#    stc_wenigoe.example:
+#        class: %stc_wenigoe.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
