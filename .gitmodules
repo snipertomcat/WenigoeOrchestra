@@ -1,0 +1,3 @@
+[submodule "plugins/sfSelect2WidgetsPlugin"]
+	path = plugins/sfSelect2WidgetsPlugin
+	url = git://github.com/19Gerhard85/sfSelect2WidgetsPlugin.git
