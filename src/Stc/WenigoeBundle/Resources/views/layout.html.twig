@@ -1,0 +1,47 @@
+{% extends "TwigBundle::layout.html.twig" %}
+
+{% block head %}
+    <link rel="icon" sizes="16x16" href="{{ asset('favicon.ico') }}" />
+    {% javascripts 'assets/select2-master/js/*' %}
+        <script type="text/javascript" src="{{ asset_url }}"></script>
+        <script type="text/javascript">
+            $(document).ready(function() {
+                $("#e1").select2();
+            });
+        </script>
+    {% endjavascripts %}
+    {% stylesheets 'assets/select2-master/css/*' %}
+        <link rel="stylesheet" href="{{ asset_url }}" />
+    {% endstylesheets %}
+{% endblock %}
+
+{% block title 'Wenigoe Bundle' %}
+
+{% block body %}
+    {% for flashMessage in app.session.flashbag.get('notice') %}
+        <div class="flash-message">
+            <em>Notice</em>: {{ flashMessage }}
+        </div>
+    {% endfor %}
+
+    {% block content_header %}
+        <ul id="menu">
+            {% block content_header_more %}
+                <li><a href="{{ path('_homepage') }}">Demo Home</a></li>
+            {% endblock %}
+        </ul>
+
+        <div style="clear: both"></div>
+    {% endblock %}
+
+    <div class="block">
+        {% block content %}{% endblock %}
+    </div>
+
+    {% if code is defined %}
+        <h2>Code behind this page</h2>
+        <div class="block">
+            <div class="symfony-content">{{ code|raw }}</div>
+        </div>
+    {% endif %}
+{% endblock %}
