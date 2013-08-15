@@ -2,53 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f203ed15-ba7c-459f-988a-884ff768657f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Stc/WenigoeBundle/Resources/config/doctrine/User.orm.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Stc/WenigoeBundle/Entity/User.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/WenigoeOrchestra.iml" afterPath="$PROJECT_DIR$/.idea/WenigoeOrchestra.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/AppKernel.php" afterPath="$PROJECT_DIR$/app/AppKernel.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/SymfonyRequirements.php" afterPath="$PROJECT_DIR$/app/SymfonyRequirements.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/config.yml" afterPath="$PROJECT_DIR$/app/config/config.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/routing.yml" afterPath="$PROJECT_DIR$/app/config/routing.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/security.yml" afterPath="$PROJECT_DIR$/app/config/security.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="WenigoeOrchestra.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376346270484" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/View/rooftop/rooftop_read_reviews.html.twig" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376271664028" ignored="false" />
+    <file path="/Dummy.txt" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376523575303" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/View/rooftop/rooftop_read_reviews.html.twig" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376437703841" ignored="false" />
     <file path="/rooftop_read_reviews.html.twig" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376267223441" ignored="false" />
-    <file path="/a.dummy" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376325937239" ignored="false" />
+    <file path="/a.dummy" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376495874502" ignored="false" />
     <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/View/rooftop/dashboard/dashboard_index.html.twig" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1375997122597" ignored="false" />
     <file path="/dashboard_index.html.twig" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1375997121516" ignored="false" />
     <file path="$PROJECT_DIR$/../../../Dealer-Previews/cache/1a/8b/20c154b9c4ed42805aa5f32fc15b.php" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1375892292655" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/Controller/RooftopDashboardController.php" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376095365790" ignored="false" />
-    <file path="/RooftopDashboardController.php" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376095365790" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/Model/Data/ReviewData.php" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376322250904" ignored="false" />
-    <file path="/ReviewData.php" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376322248894" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/Controller/RooftopDashboardController.php" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376498359834" ignored="false" />
+    <file path="/RooftopDashboardController.php" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376498358730" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/Model/Data/ReviewData.php" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376437703841" ignored="false" />
+    <file path="/ReviewData.php" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376433513314" ignored="false" />
     <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/View/rooftop/dashboard/write_review_response.html.twig" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1375900367385" ignored="false" />
     <file path="/write_review_response.html.twig" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1375899617379" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/Controller/ReviewController.php" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376357094533" ignored="false" />
-    <file path="/ReviewController.php" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376355706704" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/Controller/RooftopController.php" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376332491183" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/Controller/ReviewController.php" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376523430647" ignored="false" />
+    <file path="/ReviewController.php" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376521779563" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/Controller/RooftopController.php" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376521092855" ignored="false" />
     <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/Controller/UserController.php" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1375987440459" ignored="false" />
     <file path="/UserController.php" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1375987439076" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/Model/Logic/RooftopUserLogic.php" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1375920365638" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/Model/Logic/RooftopUserLogic.php" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376495930240" ignored="false" />
     <file path="/RooftopUserLogic.php" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1375920357999" ignored="false" />
     <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/View/email/invite_user.html.twig" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1375919687082" ignored="false" />
     <file path="/invite_user.html.twig" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1375919687082" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/Model/Data/RooftopData.php" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376347092916" ignored="false" />
-    <file path="/RooftopData.php" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376347083280" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../Dealer-Previews/config/routes.yml" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376325951240" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/Model/Logic/EmailLogic.php" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376332597933" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/Model/Data/RooftopData.php" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376495941855" ignored="false" />
+    <file path="/RooftopData.php" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376495557166" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Dealer-Previews/config/routes.yml" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376437703841" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/Model/Logic/EmailLogic.php" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376523452621" ignored="false" />
     <file path="/EmailLogic.php" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376332563880" ignored="false" />
     <file path="/routes.yml" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376325951240" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/Model/Data/RooftopUserData.php" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1375981890284" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/Model/Data/RooftopUserData.php" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376437703841" ignored="false" />
     <file path="/RooftopUserData.php" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1375981884861" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/View/rooftop/rooftop_review_resolution.html.twig" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376089910214" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/View/rooftop/rooftop_review_resolution.html.twig" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376437703841" ignored="false" />
     <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/Model/Data/RooftopDashboardData.php" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376072023855" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/View/rooftop/rooftop_read_about.html.twig" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376087363645" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/View/rooftop/rooftop_read_about.html.twig" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376437703841" ignored="false" />
     <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/Model/Logic/RooftopLogic.php" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1375985548812" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/View/rooftop/dashboard/dashboard_index_users.html.twig" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1375985548812" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/View/rooftop/rooftop_read_offers.html.twig" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1375985548812" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/View/rooftop/rooftop_read.html.twig" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376087363645" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/View/rooftop/dashboard/dashboard_index_users.html.twig" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376437703841" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/View/rooftop/rooftop_read_offers.html.twig" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376437703841" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/View/rooftop/rooftop_read.html.twig" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376437703841" ignored="false" />
     <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/Model/Data/UserData.php" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1375987877754" ignored="false" />
     <file path="/UserData.php" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1375987875778" ignored="false" />
     <file path="/add.html.php" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1375995261493" ignored="false" />
@@ -64,36 +64,40 @@
     <file path="$USER_HOME$/AppData/Local/Temp/fz3temp-2/init.inc 2.php" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376087664617" ignored="false" />
     <file path="$USER_HOME$/AppData/Local/Temp/fz3temp-2/auth.php" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376087683486" ignored="false" />
     <file path="$USER_HOME$/AppData/Local/Temp/fz3temp-2/token 2.php" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376087692000" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/View/rooftop/dashboard/dashboard_permissions.html.twig" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376096073237" ignored="false" />
-    <file path="/dashboard_permissions.html.twig" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376096072668" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/View/modal/confirmation_negative.html.twig" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376323907571" ignored="false" />
-    <file path="/RooftopController.php" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376332486420" ignored="false" />
-    <file path="/confirmation_negative.html.twig" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376323907174" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/View/email/review_receipt_user.html.twig" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376324100861" ignored="false" />
-    <file path="/review_receipt_user.html.twig" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376324099689" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/View/rooftop/dashboard/dashboard_permissions.html.twig" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376432520187" ignored="false" />
+    <file path="/dashboard_permissions.html.twig" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376432520187" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/View/modal/confirmation_negative.html.twig" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376498402056" ignored="false" />
+    <file path="/RooftopController.php" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376521079564" ignored="false" />
+    <file path="/confirmation_negative.html.twig" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376498402056" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/View/email/review_receipt_user.html.twig" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376514388956" ignored="false" />
+    <file path="/review_receipt_user.html.twig" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376514388956" ignored="false" />
     <file path="/resolution_notification_email_user.html.twig" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376333758563" ignored="false" />
     <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/View/email/resolution_notification_email_user.html.twig" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376343553503" ignored="false" />
     <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/Model/Logic/ReviewLogic.php" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376333873912" ignored="false" />
     <file path="/User.orm.yml" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376338321711" ignored="false" />
     <file path="/User.php" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376338612348" ignored="false" />
     <file path="/security.yml" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376339044276" ignored="false" />
-    <file path="/config.yml" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376339428979" ignored="false" />
+    <file path="/config.yml" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376526782678" ignored="false" />
     <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/View/email/resolution_notification_email_dealership.html.twig" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376344443430" ignored="false" />
     <file path="/resolution_notification_email_dealership.html.twig" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376342178064" ignored="false" />
     <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/View/email/review_receipt_dealership.html.twig" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376344451590" ignored="false" />
     <file path="/review_receipt_dealership.html.twig" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376343433623" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/View/email/review_receipt_dealership_negative.html.twig" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376344421509" ignored="false" />
-    <file path="/review_receipt_dealership_negative.html.twig" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376343818436" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/View/email/response_notification_user.html.twig" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376344085104" ignored="false" />
-    <file path="/response_notification_user.html.twig" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376344084760" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/View/email/review_receipt_dealership_negative.html.twig" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376514194801" ignored="false" />
+    <file path="/review_receipt_dealership_negative.html.twig" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376514194801" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/View/email/response_notification_user.html.twig" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376514965989" ignored="false" />
+    <file path="/response_notification_user.html.twig" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376514963222" ignored="false" />
     <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/View/email/resolution_ended_notification_user.html.twig" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376344245412" ignored="false" />
     <file path="/resolution_ended_notification_user.html.twig" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376344245412" ignored="false" />
     <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/View/email/resolution_ended_notification_dealership.html.twig" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376344499469" ignored="false" />
     <file path="/resolution_ended_notification_dealership.html.twig" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376344490071" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/Model/Logic/ReviewEmailLogic.php" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376356337377" ignored="false" />
-    <file path="/ReviewEmailLogic.php" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376356337377" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/ProjectProvider.php" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376356012008" ignored="false" />
-    <file path="/ProjectProvider.php" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376356011583" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/Model/Logic/ReviewEmailLogic.php" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376523301163" ignored="false" />
+    <file path="/ReviewEmailLogic.php" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376523082207" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../Dealer-Previews/src/Project/ProjectProvider.php" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376494528786" ignored="false" />
+    <file path="/ProjectProvider.php" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376494510136" ignored="false" />
+    <file path="/composer.json" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376410091308" ignored="false" />
+    <file path="/rooftop_read_about.html.twig" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376433965476" ignored="false" />
+    <file path="/AppKernel.php" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376527544850" ignored="false" />
+    <file path="/parameters.yml" changelist="f203ed15-ba7c-459f-988a-884ff768657f" time="1376526700300" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,10 +126,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AppKernel.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="AppKernel.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="38" selection-start="1181" selection-end="1181" vertical-scroll-proportion="-14.772727">
+            <state line="21" column="53" selection-start="944" selection-end="944" vertical-scroll-proportion="0.45296168">
               <folding />
             </state>
           </provider>
@@ -170,19 +174,34 @@
       <file leaf-file-name="config.yml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/config/config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="22" selection-start="310" selection-end="310" vertical-scroll-proportion="0.0">
-              <folding>
-                <marker date="1376339431220" expanded="true" signature="1607:1777" placeholder="swiftmailer:" />
-                <marker date="1376339431220" expanded="true" signature="1778:1876" placeholder="fos_user:" />
-              </folding>
+            <state line="23" column="22" selection-start="829" selection-end="829" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="routing.yml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="routing.yml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="0" selection-start="518" selection-end="518" vertical-scroll-proportion="0.39261746">
+            <state line="24" column="72" selection-start="737" selection-end="737" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="parameters.yml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="0" selection-start="382" selection-end="382" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="composer.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="52" selection-start="1096" selection-end="1096" vertical-scroll-proportion="-16.545454">
               <folding />
             </state>
           </provider>
@@ -191,7 +210,7 @@
       <file leaf-file-name="AcmeDemoExtension.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Acme/DemoBundle/DependencyInjection/AcmeDemoExtension.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="5" selection-start="620" selection-end="620" vertical-scroll-proportion="-10.045455">
+            <state line="22" column="0" selection-start="623" selection-end="623" vertical-scroll-proportion="-11.227273">
               <folding />
             </state>
           </provider>
@@ -224,9 +243,12 @@
         <option value="$PROJECT_DIR$/src/Stc/WenigoeBundle/Resources/config/doctrine/User.orm.yml" />
         <option value="$PROJECT_DIR$/src/Stc/WenigoeBundle/Entity/User.php" />
         <option value="$PROJECT_DIR$/app/config/security.yml" />
-        <option value="$PROJECT_DIR$/app/config/config.yml" />
-        <option value="$PROJECT_DIR$/app/config/routing.yml" />
         <option value="$PROJECT_DIR$/app/config/delete_me" />
+        <option value="$PROJECT_DIR$/app/config/routing.yml" />
+        <option value="$PROJECT_DIR$/app/config/parameters.yml" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/app/config/config.yml" />
+        <option value="$PROJECT_DIR$/app/AppKernel.php" />
       </list>
     </option>
   </component>
@@ -292,42 +314,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WenigoeOrchestra" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WenigoeOrchestra" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WenigoeOrchestra" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WenigoeOrchestra" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fabpot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goutte" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -813,7 +799,7 @@
       <window_info id="Code Outline" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.67112595" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CollabNet Tools" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998884" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="DatabaseBrowser" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.67112595" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18623266" sideWeight="0.6956522" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18623266" sideWeight="0.6956522" order="0" side_tool="false" content_ui="combo" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.6008919" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998884" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
@@ -899,13 +885,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/profile.html 2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/index.html 2.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -948,13 +927,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Acme/DemoBundle/DependencyInjection/AcmeDemoExtension.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="5" selection-start="620" selection-end="620" vertical-scroll-proportion="-10.045455">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/config/security.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="43" selection-start="252" selection-end="252" vertical-scroll-proportion="0.0">
@@ -963,13 +935,6 @@
             <marker date="1376339046095" expanded="true" signature="193:257" placeholder="fos_userbundle:" />
             <marker date="1376339046095" expanded="true" signature="323:425" placeholder="form_login:" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Stc/WenigoeBundle/Entity/User.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="7" selection-end="41" vertical-scroll-proportion="-1.1818181">
-          <folding />
         </state>
       </provider>
     </entry>
@@ -985,13 +950,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="38" selection-start="1181" selection-end="1181" vertical-scroll-proportion="-14.772727">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Stc/WenigoeBundle/Resources/config/services.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="0" selection-start="213" selection-end="213" vertical-scroll-proportion="0.0">
@@ -999,19 +957,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Acme/DemoBundle/DependencyInjection/AcmeDemoExtension.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="0" selection-start="623" selection-end="623" vertical-scroll-proportion="-11.227273">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="52" selection-start="1096" selection-end="1096" vertical-scroll-proportion="-16.545454">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/config/config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="22" selection-start="310" selection-end="310" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1376339431220" expanded="true" signature="1607:1777" placeholder="swiftmailer:" />
-            <marker date="1376339431220" expanded="true" signature="1778:1876" placeholder="fos_user:" />
-          </folding>
+        <state line="23" column="22" selection-start="829" selection-end="829" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="518" selection-end="518" vertical-scroll-proportion="0.39261746">
+        <state line="24" column="72" selection-start="737" selection-end="737" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="382" selection-end="382" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stc/WenigoeBundle/Entity/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="7" selection-end="41" vertical-scroll-proportion="-1.1818181">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="53" selection-start="944" selection-end="944" vertical-scroll-proportion="0.45296168">
           <folding />
         </state>
       </provider>
